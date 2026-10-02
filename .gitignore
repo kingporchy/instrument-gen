@@ -1,0 +1,8 @@
+.venv*
+instrument-gen-venv/
+__pycache__/
+*.pyc
+takes/
+
+sf2/
+thirdparty/
